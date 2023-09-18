@@ -6,6 +6,10 @@
 #include <string.h>
 
 #include <ncurses.h>
-
-
-#endif // MAIN_H
+#include <panel.h>
+#include <string.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <curses.h>
+#include <form.h>
+#endif // MAIN_
